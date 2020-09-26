@@ -1,0 +1,2 @@
+ps aux | grep sshd | awk '{print $2}' | head -n 1
+# ps -C sshd -o pid=

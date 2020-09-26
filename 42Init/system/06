@@ -1,0 +1,2 @@
+service ssh restart
+# can be used as a superuser: su -

@@ -1,0 +1,26 @@
+while [ $ != 'x' ]; do
+echo "Simple calculator (x to quit)"
+echo "Enter the first number:"
+read var1
+if [ $var1 == x ]; then exit; fi
+echo "Choose an operator (+, -, *, /, %):"
+read op
+if [ $op == x ]; then exit; fi
+echo "Enter the second number:"
+read var2
+if [ $var2 == x ]; then exit; fi
+if [ "$op" = "+" ] ; then
+res=$(expr $var1 + $var2);
+elif [ "$op" = "-" ] ; then
+res=$(expr $var1 - $var2);
+elif [ "$op" = "/" ] ; then
+res=$(expr $var1 / $var2);
+elif [ "$op" = "*" ] ; then
+res=$(expr $var1 * $var2);
+elif [ "$op" = "%" ] ; then
+res=$(expr $var1 % $var2);
+fi
+echo "Result: $var1 $op $var2 = $res";
+done
+# res=$(echo $var1+$var2" | bc);
+# lines to edit if you want it to work on mac OS

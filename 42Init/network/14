@@ -1,0 +1,2 @@
+# /etc/hosts
+# The hosts file contains all the data about the machines in the local zone, can only be modified by sudo.

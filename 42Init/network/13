@@ -1,0 +1,6 @@
+# nslookup <result of file 12 which is 10.2.10.3 here>
+Server:		10.51.1.1
+Address:	10.51.1.1#53
+
+3.10.2.10.in-addr.arpa	name = e-r10-p3.s19.be.
+

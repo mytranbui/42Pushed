@@ -1,0 +1,2 @@
+service ssh status
+# can be use as a superuser: su -

@@ -1,0 +1,2 @@
+hostname <new_name>
+# can do it only as a superuser: su -

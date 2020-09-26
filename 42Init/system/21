@@ -1,0 +1,2 @@
+cat /etc/passwd | grep /home | cut -f 1 -d ':'
+# getent passwd | grep home | cut -f1 -d :

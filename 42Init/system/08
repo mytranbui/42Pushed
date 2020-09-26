@@ -1,0 +1,2 @@
+# By default, the keys will be stored in the ~/.ssh/authorized_keys file within your user's home directory.
+# That file doesn't exist because it hasn't been configured yet.

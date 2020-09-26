@@ -1,0 +1,2 @@
+# echo '' >> /etc/hostname
+# modify the file in root then reboot the VM

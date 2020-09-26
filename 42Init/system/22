@@ -1,0 +1,2 @@
+adduser <name>
+# can only do it as a superuser: su -

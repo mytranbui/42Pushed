@@ -1,0 +1,6 @@
+kill %%
+# kill most recent backgroung job
+# kill $!
+# kill last process executed in the background
+# pkill tail
+# run 'jobs' to verify if it's running in the background

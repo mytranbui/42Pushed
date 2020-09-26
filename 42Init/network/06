@@ -1,0 +1,3 @@
+# /etc/resolv.conf
+# /etc is a folder which contain all your system configuration files in it.
+# /resolv.conf configuration file contains info that determines the operational parameters of the DNS resolver. The DNS resolver allows applications running in the operating system to translate human-friendly domain names into the numeric IP addresses that are required for access to resources on the local area network or the Internet. The process of determining IP addresses from domain names is called resolving.

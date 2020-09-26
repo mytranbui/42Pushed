@@ -1,0 +1,6 @@
+echo "Which user would you like to delete ?"
+
+read var
+deluser -f $var >-
+
+echo "$var Deleted"
