@@ -1,7 +1,7 @@
 # 42Pushed
 Submitted Projects at 42School
 
-### Piscine Reloaded
+## Piscine Reloaded
 A serie of exercises done during the piscine to remind you all the basics of the C programming language.
 
 ## Get_next_line
