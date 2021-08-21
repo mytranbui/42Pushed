@@ -45,6 +45,3 @@ Recreate the function printf
 ## Filler
 Create a player to fight other students on the Filler board. The concept is simple: two players gain points by placing on a board, one after the other, the game piece obtained by the game master (in the form of an executable Ruby program).The game ends when the game piece cannot be placed anymore.
 Filler is an algorithmic game which consists in filling a grid of a known size in advance with pieces of random size and shapes, without the pieces being stacked more than onesquare above each other and without them exceeding the grid. If one of these conditions is not met, the game stops.
-
-key points learned:
-- 
