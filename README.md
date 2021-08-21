@@ -8,8 +8,8 @@ A serie of exercises done during the piscine to remind you all the basics of the
 A function that reads a line ending with a newline character from a file descriptor.
 
 key points learned:
-- *static variables*
-- deeper understanding of allocations, what is happening in the *stack* memory and the *heap* memory
+- **static variables**
+- deeper understanding of allocations, what is happening in the **stack** memory and the **heap** memory
 - use of a **buffer**
 
 ## Libft
