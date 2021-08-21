@@ -13,7 +13,7 @@ key points learned:
 - use of a **buffer**
 
 ## Libft
-A library of functions
+Create your own library of functions
 
 key points learned:
 - **Makefile**
